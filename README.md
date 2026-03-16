@@ -1,4 +1,5 @@
 # Stock Market Prediction using Machine Learning
+A machine learning project that analyzes historical stock market data and builds predictive models to forecast stock price trends.
 
 ## Project Overview
 This project analyzes historical stock market data of top companies and applies machine learning techniques to predict stock price trends.
