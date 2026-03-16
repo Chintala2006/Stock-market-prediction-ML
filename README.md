@@ -31,4 +31,20 @@ notebooks/ → Jupyter notebook containing the code
 report/ → final research report and results
 
 ## Results
+
 The project performs exploratory data analysis and builds machine learning models to analyze and predict stock price movements.
+The analysis helps identify trends and patterns in historical stock market data and demonstrates how machine learning can be applied to financial forecasting.
+
+## How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/Chintala2006/Stock-market-prediction-ML.git
+
+2. Install required libraries
+
+pip install -r requirements.txt
+
+3. Open the notebook
+
+Open the notebook inside the notebooks folder using Jupyter Notebook or JupyterLab.
